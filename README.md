@@ -21,7 +21,7 @@
         <p>🖥️ System & IDE 🖥️</p>
 </div>
 <div align="center">
-        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style==for-the-badge&logo=androidstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
         <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
         
