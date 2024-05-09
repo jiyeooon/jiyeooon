@@ -34,9 +34,9 @@
 
 <div align=center>
         <a href="mailto:jiyeooon27@naver.com">
-                <img src="https://img.shields.io/badge/Naver%20mail-30B980?style=flat&logo=naver&logoColor=white" />
+                <img src="https://img.shields.io/badge/Naver%20mail-30B980?style=for-the-badge&logo=naver&logoColor=white" />
         <a href="https://www.instagram.com/ji_yeoxn/">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
 </div>
                 
