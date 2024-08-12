@@ -50,4 +50,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeooon)](https://solved.ac/wldus27)
 
+<img src="https://github.com/jiyeooon/jiyeooon/blob/output/github-contribution-grid-snake.svg"/>
+
 </div>
